@@ -1,0 +1,160 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+    background: #fff;
+}
+
+.promo-track {
+    display: flex;
+    gap: 12px;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+    scrollbar-width: none;
+    padding: 4px 0;
+}
+
+.promo-track::-webkit-scrollbar {
+    display: none;
+}
+
+.promo-card {
+    flex: 0 0 320px;
+    height: 170px;
+    border-radius: 16px;
+    overflow: hidden;
+    position: relative;
+    cursor: grab;
+    transition: transform 0.2s ease;
+}
+
+.promo-card:active {
+    cursor: grabbing;
+}
+
+.promo-card:hover {
+    transform: scale(1.03);
+}
+
+.promo-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.popular-track {
+    display: flex;
+    gap: 12px;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+    scrollbar-width: none;
+    padding: 4px 0;
+}
+
+.popular-track::-webkit-scrollbar {
+    display: none;
+}
+
+.category-nav {
+    display: flex;
+    gap: 4px;
+    overflow-x: auto;
+    scrollbar-width: none;
+    overscroll-behavior-x: contain;
+    -webkit-overflow-scrolling: touch;
+}
+
+.category-nav::-webkit-scrollbar {
+    display: none;
+}
+
+@keyframes slideDown {
+    from {
+        opacity: 0;
+        transform: translateY(-8px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.product-card {
+    transition: box-shadow 0.2s ease;
+}
+
+.product-card:hover {
+    box-shadow: 0 4px 24px rgba(0, 0, 0, 0.08);
+}
+
+.product-card img {
+    transition: transform 0.3s ease;
+}
+
+.product-card:hover img {
+    transform: scale(1.04);
+}
+
+.carousel-arrow {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s;
+    color: #333;
+    font-size: 1.2rem;
+}
+
+.carousel-arrow:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.18);
+    transform: scale(1.08);
+}
+
+.line-clamp-3 {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+@media (max-width: 768px) {
+    .promo-card {
+        flex: 0 0 150px;
+        height: 135px;
+        border-radius: 12px;
+    }
+
+    .line-clamp-3 {
+        -webkit-line-clamp: 2;
+        line-clamp: 2;
+    }
+}
+
+@keyframes slideIn {
+    from {
+        transform: translateX(100%);
+    }
+
+    to {
+        transform: translateX(0);
+    }
+}
+
+@keyframes scale {
+    from {
+        opacity: 0;
+        transform: scale(0.95);
+    }
+
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}

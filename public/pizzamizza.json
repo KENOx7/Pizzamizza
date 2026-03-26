@@ -1,0 +1,991 @@
+[
+  {
+    "name": "Marqarita",
+    "description": "Pizza sous, gouda pendiri, mozarella pendiri, pomidor",
+    "price": "8.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/334/254_254_2/3344c220d694081c69d2dd9fd9811747.png?1764144542118280",
+    "sizes": [
+      {
+        "size": "Kiçik - 25 sm"
+      },
+      {
+        "size": "Orta - 30 sm"
+      },
+      {
+        "size": "Böyük - 35 sm"
+      }
+    ]
+  },
+  {
+    "name": "Vegetarian",
+    "description": "Pizza sous, gouda pendiri,  ispanaq, qırmızı soğan, bolqar bibəri, pomidor, göbələk",
+    "price": "8.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/ee4/254_254_2/ee49df869c6250cc32e22c13d8b5ef2e.png?1764144542125565",
+    "sizes": [
+      {
+        "size": "Kiçik - 25 sm"
+      },
+      {
+        "size": "Orta - 30 sm"
+      },
+      {
+        "size": "Böyük - 35 sm"
+      }
+    ]
+  },
+  {
+    "name": "Fungi Kon Pollo",
+    "description": "Pizza sous, gouda pendiri, göbələk, toyuq filesi",
+    "price": "10.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/398/254_254_2/3986baeb9fd529655ed7b28da8e53925.png?1764144542122413",
+    "sizes": [
+      {
+        "size": "Kiçik - 25 sm"
+      },
+      {
+        "size": "Orta - 30 sm"
+      },
+      {
+        "size": "Böyük - 35 sm"
+      }
+    ]
+  },
+  {
+    "name": "Havay",
+    "description": "pizza sous, gouda pendiri, pomidor, marina edilmiş toyuq filesi, ananas",
+    "price": "10.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/b63/254_254_2/b6338722a0aded78446db9149922f3e5.png?1764144543119866",
+    "sizes": [
+      {
+        "size": "Kiçik - 25 sm"
+      },
+      {
+        "size": "Orta - 30 sm"
+      },
+      {
+        "size": "Böyük - 35 sm"
+      }
+    ]
+  },
+  {
+    "name": "Texas",
+    "description": "Pizza sous, gouda pendiri, toyuq filesi, bolqar bibəri, qarğıdalı, qırmızı soğan",
+    "price": "10.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/5a6/254_254_2/5a678878311eb41b5f3a4509bb904d80.png?1764144543124022",
+    "sizes": [
+      {
+        "size": "Kiçik - 25 sm"
+      },
+      {
+        "size": "Orta - 30 sm"
+      },
+      {
+        "size": "Böyük - 35 sm"
+      }
+    ]
+  },
+  {
+    "name": "Klassiko",
+    "description": "Pizza sous, gouda pendiri, salyami kolbasası (halal), göbələk, pepperoni bibəri",
+    "price": "10.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/ea9/254_254_2/ea9d8ce5742588d53d65afc7ee182915.png?1764144543122434",
+    "sizes": [
+      {
+        "size": "Kiçik - 25 sm"
+      },
+      {
+        "size": "Orta - 30 sm"
+      },
+      {
+        "size": "Böyük - 35 sm"
+      }
+    ]
+  },
+  {
+    "name": "Salyami",
+    "description": "Pizza sous, gouda pendiri, salyami kolbasası (halal)",
+    "price": "11.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/71f/254_254_2/71f5a4d16573aa6b60277d7033f46ca7.png?1764144543122169",
+    "sizes": [
+      {
+        "size": "Kiçik - 25 sm"
+      },
+      {
+        "size": "Orta - 30 sm"
+      },
+      {
+        "size": "Böyük - 35 sm"
+      }
+    ]
+  },
+  {
+    "name": "Mista",
+    "description": "Pizza sous, gouda pendiri, göbələk, mal ətindən vetçina (halal), salyami kolbasası (halal)",
+    "price": "11.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/90e/254_254_2/90e41488959bbaa3e81b97d045a07a72.png?1764144543124949",
+    "sizes": [
+      {
+        "size": "Kiçik - 25 sm"
+      },
+      {
+        "size": "Orta - 30 sm"
+      },
+      {
+        "size": "Böyük - 35 sm"
+      }
+    ]
+  },
+  {
+    "name": "Çiken Strips",
+    "description": "Barbekyu sousu, gouda pendiri, toyuq naggetsləri, qarğıdalı, bolqar bibəri",
+    "price": "11.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/9fc/254_254_2/9fc24d6b4bc1b9a072ae24e01517c5b8.png?1764144543119128",
+    "sizes": [
+      {
+        "size": "Kiçik - 25 sm"
+      },
+      {
+        "size": "Orta - 30 sm"
+      },
+      {
+        "size": "Böyük - 35 sm"
+      }
+    ]
+  },
+  {
+    "name": "Meksikana",
+    "description": "Pizza sous, gouda pendiri, toyuq filesi, qırmızı soğan, ispanaq, halapenyo bibəri, pepperoni bibəri",
+    "price": "11.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/d2e/254_254_2/d2e643120cf6d3785096146546b8ccd7.png?1764144543126380",
+    "sizes": [
+      {
+        "size": "Kiçik - 25 sm"
+      },
+      {
+        "size": "Orta - 30 sm"
+      },
+      {
+        "size": "Böyük - 35 sm"
+      }
+    ]
+  },
+  {
+    "name": "Volkano",
+    "description": "Pizza sous, gouda pendiri, ispanaq, qırmızı soğan, bolqar bibəri, pomidor, göbələk, toyuq filesi, qara zeytun",
+    "price": "11.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/ed0/254_254_2/ed0a8d2c8e4531a594394e1e46bb205e.png?1764144543127955",
+    "sizes": [
+      {
+        "size": "Kiçik - 25 sm"
+      },
+      {
+        "size": "Orta - 30 sm"
+      },
+      {
+        "size": "Böyük - 35 sm"
+      }
+    ]
+  },
+  {
+    "name": "Beş Pendir",
+    "description": "Qaymaqlı sous, qauda pendiri, mozzarela pendiri, bufallo mozzarela pendiri, riccota pendiri, parmezan pendiri",
+    "price": "11.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/1eb/254_254_2/1eba6f2ef8572d240d844508429d2dbb.png?1764144543111918",
+    "sizes": [
+      {
+        "size": "Kiçik - 25 sm"
+      },
+      {
+        "size": "Orta - 30 sm"
+      },
+      {
+        "size": "Böyük - 35 sm"
+      }
+    ]
+  },
+  {
+    "name": "Dörd Fəsil",
+    "description": "Orta - 30 sm, pizza sous, qauda pendiri, ağ pendir, vetçina (halal), pepperoni, göbələk, pomidor, oreqano",
+    "price": "18.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/e8b/254_254_2/e8bd2936621246248db22cb3c8ba51cb.png?1764144543123568",
+    "sizes": []
+  },
+  {
+    "name": "Sezar",
+    "description": "Sezar sous, gouda pendiri, pomidor, marina edilmiş toyuq filesi, kahı, parmesan pendiri",
+    "price": "12.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/39a/254_254_2/39a632cde97e816550494a35f39505ac.png?1764144543125451",
+    "sizes": [
+      {
+        "size": "Kiçik - 25 sm"
+      },
+      {
+        "size": "Orta - 30 sm"
+      },
+      {
+        "size": "Böyük - 35 sm"
+      }
+    ]
+  },
+  {
+    "name": "Pepperoni",
+    "description": "pizza sous, pepperoni kolbasa, gouda pendiri",
+    "price": "12.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/278/254_254_2/278f9c532f9bc8b66acbae3bc4ceb2f3.png?1764144543119569",
+    "sizes": [
+      {
+        "size": "Kiçik - 25 sm"
+      },
+      {
+        "size": "Orta - 30 sm"
+      },
+      {
+        "size": "Böyük - 35 sm"
+      }
+    ]
+  },
+  {
+    "name": "Amerikana",
+    "description": "Barbekyu sousu, qauda pendiri, sosiska, kartof fri, duzlu xıyar",
+    "price": "12.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/ab8/254_254_2/ab8973a44421d52373befa53c436a8c2.png?1764144544123797",
+    "sizes": [
+      {
+        "size": "Kiçik - 25 sm"
+      },
+      {
+        "size": "Orta - 30 sm"
+      },
+      {
+        "size": "Böyük - 35 sm"
+      }
+    ]
+  },
+  {
+    "name": "Delyuks",
+    "description": "Pizza sous, gouda pendiri, qırmızı soğan, pepperoni bibəri, dana basdırması",
+    "price": "12.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/cd0/254_254_2/cd09b269d3ab8be7324924d396ab0d5e.png?1764144544123844",
+    "sizes": [
+      {
+        "size": "Kiçik - 25 sm"
+      },
+      {
+        "size": "Orta - 30 sm"
+      },
+      {
+        "size": "Böyük - 35 sm"
+      }
+    ]
+  },
+  {
+    "name": "Tonno",
+    "description": "pizza sous, qırmızı soğan, ispanaq, göbələk, gouda pendiri, konservləşdirilmiş ton balığı, qarğıdalı",
+    "price": "12.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/2af/254_254_2/2af2cc2be7cd037bf37b29db2f09ffc4.png?1764144544126511",
+    "sizes": [
+      {
+        "size": "Kiçik - 25 sm"
+      },
+      {
+        "size": "Orta - 30 sm"
+      },
+      {
+        "size": "Böyük - 35 sm"
+      }
+    ]
+  },
+  {
+    "name": "Mit Lovers",
+    "description": "Pizza sous, gouda pendiri, toyuq filesi, dana basdırması, salyami kolbasası (halal), mal ətindən vetçina (halal), pepperoni",
+    "price": "13.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/3d9/254_254_2/3d9a4f3d88b6c67701f0f568a928daee.png?1764144544123939",
+    "sizes": [
+      {
+        "size": "Kiçik - 25 sm"
+      },
+      {
+        "size": "Orta - 30 sm"
+      },
+      {
+        "size": "Böyük - 35 sm"
+      }
+    ]
+  },
+  {
+    "name": "Meqa Miks",
+    "description": "Pizza sousu, qauda pendiri, pomidor,  bolqar bibəri, göbələk, qara zeytun, salyami (halal), mal ətindən vetçina (halal), dana basdırması, toyuq ...",
+    "price": "13.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/285/254_254_2/285ddb4cebfd5a414f58130835e5b7ec.png?1764144544123784",
+    "sizes": [
+      {
+        "size": "Kiçik - 25 sm"
+      },
+      {
+        "size": "Orta - 30 sm"
+      },
+      {
+        "size": "Böyük - 35 sm"
+      }
+    ]
+  },
+  {
+    "name": "Tələbə kombo",
+    "description": "Pizza 20 sm, içki 0.3L",
+    "price": "5.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/aab/254_254_2/aab4831a7cc10e3dc74e4dade45268d5.png?175809111675924",
+    "sizes": [
+      {
+        "size": "Pendirli"
+      },
+      {
+        "size": "Toyuqlu"
+      },
+      {
+        "size": "Salyami"
+      },
+      {
+        "size": "Coca-Cola"
+      },
+      {
+        "size": "Fanta"
+      },
+      {
+        "size": "Sprite"
+      },
+      {
+        "size": "Sirab"
+      }
+    ]
+  },
+  {
+    "name": "Biznes-lanç",
+    "description": "Pizza 20 sm, şorba, içki 0.3L - təklif 12:00-dan 15:00-dək keçərlidir.",
+    "price": "8.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/831/254_254_2/831e9f3cdcd45a7bdeb06bf554d4e7c2.jpg?174982425242887",
+    "sizes": []
+  },
+  {
+    "name": "Uşaq menyusu",
+    "description": "Uşaq menyusu – 3 fərqli dadlı seçim!",
+    "price": "8.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/4bd/254_254_2/4bd0be5d15865a452d6a69d10208164d.jpg?174982425249645",
+    "sizes": [
+      {
+        "size": "Pizza 20 sm, 1 x kartof fri, 1 x  içki"
+      },
+      {
+        "size": "Naggetslər (6 ədəd), 1 x kartof fri, 1 x içki"
+      },
+      {
+        "size": "Pizza 20 sm, naggetslər (6 ədəd), 2 x kartof fri, 2 x içki"
+      }
+    ]
+  },
+  {
+    "name": "Kalzone Kombo",
+    "description": "Kalzone, kartof fri, içki 0,3 L — Cola, Sprite, Fanta və ya Sirab",
+    "price": "9.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/9b9/254_254_2/9b94035e0799cb60a6629dffacb246de.png?175215231796421",
+    "sizes": [
+      {
+        "size": "Coca-Cola"
+      },
+      {
+        "size": "Fanta"
+      },
+      {
+        "size": "Sprite"
+      },
+      {
+        "size": "Sirab"
+      }
+    ]
+  },
+  {
+    "name": "Çiken Strips Kombo",
+    "description": "Çiken Strips (6 əd.), kartof fri, içki 0,3l",
+    "price": "11.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/285/254_254_2/2853a2e743d79d8362dfa9dbb530dbe3.jpg?174995375343696",
+    "sizes": []
+  },
+  {
+    "name": "Klab Sendviç Kombo",
+    "description": "Klab sendviç, kartof fri, Coca-Cola 0.3L",
+    "price": "11.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/4f1/254_254_2/4f1eeb61b9a40d4aed5de04eb371b993.jpg?174982425246626",
+    "sizes": []
+  },
+  {
+    "name": "Sezar Roll Kombo",
+    "description": "Sezar Roll, kartof fri, içki 0,3 L  — Cola, Sprite, Fanta və ya Sirab",
+    "price": "11.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/c20/254_254_2/c2028c21f99f570860bb761d7a80895f.png?175215140894825",
+    "sizes": [
+      {
+        "size": "Coca-Cola"
+      },
+      {
+        "size": "Fanta"
+      },
+      {
+        "size": "Sprite"
+      },
+      {
+        "size": "Sirab"
+      }
+    ]
+  },
+  {
+    "name": "Chicken Roll Kombo",
+    "description": "Chicken Roll, kartof fri, içki 0,3 L — Cola, Sprite, Fanta və ya Sirab",
+    "price": "11.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/e15/254_254_2/e1580a6d353c928c6e6c1a7c280eae38.png?175215204095488",
+    "sizes": [
+      {
+        "size": "Coca-Cola"
+      },
+      {
+        "size": "Fanta"
+      },
+      {
+        "size": "Sprite"
+      },
+      {
+        "size": "Sirab"
+      }
+    ]
+  },
+  {
+    "name": "Bir nəfərlik kombo",
+    "description": "Kiçik pizza, kartof fri, Coca-Cola 0.33L",
+    "price": "13.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/3b5/254_254_2/3b56a92cf21337fb42ec20c6b98b237c.png?177364711274506",
+    "sizes": [
+      {
+        "size": "Marqarita"
+      },
+      {
+        "size": "Vegetarian"
+      },
+      {
+        "size": "Fungi Kon Pollo"
+      },
+      {
+        "size": "Mista"
+      },
+      {
+        "size": "Salyami"
+      },
+      {
+        "size": "Klassiko"
+      },
+      {
+        "size": "Havay"
+      },
+      {
+        "size": "Texas"
+      },
+      {
+        "size": "Çiken Strips"
+      },
+      {
+        "size": "Meksikana"
+      },
+      {
+        "size": "Tonno e Cipolla"
+      },
+      {
+        "size": "Beş Pendir"
+      }
+    ]
+  },
+  {
+    "name": "Iki nəfərlik kombo",
+    "description": "Orta pizza, kartof fri, Coca-Cola 1L",
+    "price": "19.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/e51/254_254_2/e5173b1bff302d87311216b3e391f55d.jpg?174982425242065",
+    "sizes": [
+      {
+        "size": "Marqarita"
+      },
+      {
+        "size": "Vegetarian"
+      },
+      {
+        "size": "Fungi Kon Pollo"
+      },
+      {
+        "size": "Havay"
+      },
+      {
+        "size": "Texas"
+      },
+      {
+        "size": "Klassiko"
+      },
+      {
+        "size": "Salyami"
+      },
+      {
+        "size": "Mista"
+      },
+      {
+        "size": "Çiken Strips"
+      },
+      {
+        "size": "Meksikana"
+      },
+      {
+        "size": "Volkano"
+      },
+      {
+        "size": "Beş Pendir"
+      },
+      {
+        "size": "Dörd Fəsil"
+      },
+      {
+        "size": "Sezar"
+      },
+      {
+        "size": "Pepperoni"
+      },
+      {
+        "size": "Amerikana"
+      },
+      {
+        "size": "Delyuks"
+      },
+      {
+        "size": "Tonno"
+      }
+    ]
+  },
+  {
+    "name": "Ailəvi Kombo",
+    "description": "Böyük pizza, qarışıq panini (6 ədəd), naggetslər (6 ədəd), kartof fri, Coca-Cola 1L",
+    "price": "29.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/b26/254_254_2/b26d37eeaba93093c7c6e678cea333f8.jpg?174982425343839",
+    "sizes": [
+      {
+        "size": "Marqarita"
+      },
+      {
+        "size": "Vegetarian"
+      },
+      {
+        "size": "Fungi Kon Pollo"
+      },
+      {
+        "size": "Mista"
+      },
+      {
+        "size": "Salyami"
+      },
+      {
+        "size": "Klassiko"
+      },
+      {
+        "size": "Havay"
+      },
+      {
+        "size": "Texas"
+      },
+      {
+        "size": "Çiken Strips"
+      },
+      {
+        "size": "Meksikana"
+      },
+      {
+        "size": "Beş Pendir"
+      }
+    ]
+  },
+  {
+    "name": "Məclis Menyusu",
+    "description": "4x böyük pizza, 4x kartof fri, 3x Coca-Cola 1L,",
+    "price": "79.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/485/254_254_2/485a77b4fdec8e93e801163284069977.png?1752150731120243",
+    "sizes": []
+  },
+  {
+    "name": "Mediterenian",
+    "description": "pomidor, xiyar, zeytun, qırmızı soğan, qarğıdalı, qırmızı lobya, kahı, ağ pendir, xardallı-ballı sousu",
+    "price": "8.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/e1c/254_254_2/e1cbb24cfcd8bf08c2d074aa93f9188d.png?177254162367444",
+    "sizes": []
+  },
+  {
+    "name": "Speçiale",
+    "description": "Aysberq kahı, kök, pomidor, xiyar, qarğıdalı, toyuq filesi, gouda pendiri, qurudulmuş çörək, xüsusi sous, ədviyyat",
+    "price": "7.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/8ca/254_254_2/8ca895ccdeb7fcc3055e243d64c477cd.png?177254162363805",
+    "sizes": []
+  },
+  {
+    "name": "Kapriçoza",
+    "description": "Aysberq kahı, pomidor, xiyar, qarğıdalı, kök, gouda pendiri, ton balığı, mal ətindən vetçina (halal), kokteyl sousu",
+    "price": "9.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/52e/254_254_2/52e60e44557b46e65cb7d1bbbf9999ec.png?177254162365613",
+    "sizes": []
+  },
+  {
+    "name": "Sezar",
+    "description": "Aysberq kahı, pomidoru, toyuq filesi, parmezan pendiri, qurudulmuş çörək, klassik Sezar sousu",
+    "price": "9.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/6b8/254_254_2/6b844ec4e7ec496bdf774a8a5438b7c0.png?177254162363847",
+    "sizes": []
+  },
+  {
+    "name": "Fettuçini Speçiale",
+    "description": "Fettuçini makaronu, toyuq filesi, i̇spanaq, bolqar bibəri, tomat sousu, qauda pendiri, qaymaqlı sous, oreqano",
+    "price": "8.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/c48/254_254_2/c48b18cbed4d63ab3ae8e7b09dd6a700.png?177254149257894",
+    "sizes": []
+  },
+  {
+    "name": "Penne Kon Pollo",
+    "description": "Penne makaronu, toyuq filesi, göbələk, ağ pendir, qaymaqlı sous, gouda pendiri, ədviyyatlar",
+    "price": "7.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/514/254_254_2/514116823a89e54d95c04f46627961d3.png?177254149257200",
+    "sizes": []
+  },
+  {
+    "name": "Mərci Şorbası",
+    "description": "Mərci, tomat pastası, soğan, kök, ədviyyatlar",
+    "price": "3.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/d12/254_254_2/d124a5930f6409dca8f85025efe8dda7.png?177254144138512",
+    "sizes": []
+  },
+  {
+    "name": "Göbələk Şorbası",
+    "description": "Göbələk, soğan, qaymaq, ədviyyatlar",
+    "price": "4.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/1cb/254_254_2/1cb9702d93c15b08eaf374c03f065f15.png?177254144140776",
+    "sizes": []
+  },
+  {
+    "name": "Tomat Şorbası",
+    "description": "Pomidor, kök, soğan, qaymaq, ədviyyatlar",
+    "price": "4.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/bc8/254_254_2/bc8201458edb7e14c41fd448efbc0d22.png?177254144139071",
+    "sizes": []
+  },
+  {
+    "name": "Panini (Sadə)",
+    "description": null,
+    "price": "1.00m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/f7b/254_254_2/f7b311aaaefec817a96c299dad5ba9fc.png?177254133945552",
+    "sizes": [
+      {
+        "size": "6 ədəd"
+      },
+      {
+        "size": "9 ədəd"
+      }
+    ]
+  },
+  {
+    "name": "Kartof Fri",
+    "description": "Kartof fri",
+    "price": "3.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/10a/254_254_2/10af9aa0f3e8057db81452d0d851ee53.png?177254133948556",
+    "sizes": []
+  },
+  {
+    "name": "Çiken Strips",
+    "description": "Çiken Strips",
+    "price": "4.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/d85/254_254_2/d8595d9c26fc8cf6b9c26bf09761a7f1.png?177254133948984",
+    "sizes": [
+      {
+        "size": "Çiken Strips (3 ədəd)"
+      },
+      {
+        "size": "Çiken Strips (6 ədəd)"
+      },
+      {
+        "size": "Çiken Strips (9 ədəd)"
+      }
+    ]
+  },
+  {
+    "name": "Kəndsayağı Kartof",
+    "description": "Kəndsayağı qızardılmış kartof",
+    "price": "4.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/6ce/254_254_2/6ce660cb4c048b0f677d6db8a8f5c165.png?177254133948943",
+    "sizes": []
+  },
+  {
+    "name": "Panini",
+    "description": "Mal ətindən vetçina (halal) və ya ton və ya salyami (halal)",
+    "price": "6.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/a6d/254_254_2/a6d14a9415e9286d7813ca23ba3b56e4.png?177254133938728",
+    "sizes": [
+      {
+        "size": "Salyami (6 ədəd)"
+      },
+      {
+        "size": "Salyami (9 ədəd)"
+      },
+      {
+        "size": "Vetçina (6 ədəd)"
+      },
+      {
+        "size": "Vetçina (9 ədəd)"
+      },
+      {
+        "size": "Ton (6 ədəd)"
+      },
+      {
+        "size": "Ton (9 ədəd)"
+      },
+      {
+        "size": "Qarışıq (6 ədəd)"
+      },
+      {
+        "size": "Qarışıq (9 ədəd)"
+      },
+      {
+        "size": "Pendir (6 ədəd)"
+      },
+      {
+        "size": "Pendir (9 ədəd)"
+      }
+    ]
+  },
+  {
+    "name": "Naggets",
+    "description": "Toyuq naggetsləri",
+    "price": "5.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/f24/254_254_2/f24f082af239f76b002a2ab454e1293a.png?177254133948780",
+    "sizes": [
+      {
+        "size": "Naggets (6 ədəd)"
+      },
+      {
+        "size": "Naggets (9 ədəd)"
+      }
+    ]
+  },
+  {
+    "name": "Kalzone",
+    "description": "Toyuq filesi və ya mal ətindən vetçina (halal) və ya salyami (halal), duzlu xiyar, pomidor, gouda pendiri, kartof, xüsusi sous",
+    "price": "6.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/ca4/254_254_2/ca4d62d6260f01c91d95f9a1f4e1b0d1.png?177254133943741",
+    "sizes": [
+      {
+        "size": "Vetçina"
+      },
+      {
+        "size": "Toyuq"
+      },
+      {
+        "size": "Salami (halal)"
+      }
+    ]
+  },
+  {
+    "name": "Sezar Roll",
+    "description": "Lavaş, gouda pendir, kahı, pomidor, toyuq filesi, klassik Sezar sousu",
+    "price": "8.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/caa/254_254_2/caa74490cff6e7d9041751956d9dc380.png?177254133935487",
+    "sizes": []
+  },
+  {
+    "name": "Çiken Roll",
+    "description": "Lavaş, gouda pendir, kahı, toyuq filesi, xüsusi sous, qırmızı soğan, duzlu xıyar, kartof fri",
+    "price": "7.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/b1e/254_254_2/b1ef7d5b3414deb10ba84d8000dd0654.png?177254133935212",
+    "sizes": []
+  },
+  {
+    "name": "Klab Sendviç və Kartof Fri",
+    "description": "Tost çörəyi, yumurta, pomidor, xiyar, pizza pendiri, toyuq filesi, kahı, mayonez",
+    "price": "10.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/0ef/254_254_2/0ef5bc7a1417265e41173da10c7b45b1.png?177254133962172",
+    "sizes": []
+  },
+  {
+    "name": "Naggets və Kartof Fri",
+    "description": "Toyuq naggetsləri 6 ədəd, kartof fri",
+    "price": "8.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/5d0/254_254_2/5d008532c68e8be4df6c2ebb5af49379.png?177254133966940",
+    "sizes": []
+  },
+  {
+    "name": "Ketçup",
+    "description": null,
+    "price": "0.80m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/c87/254_254_2/c87b7c8cdc9362704de32140e1733236.png?177254169137366",
+    "sizes": []
+  },
+  {
+    "name": "Barbekyu Sous",
+    "description": null,
+    "price": "0.80m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/a82/254_254_2/a828e856dff394bc6f1aceb6b52a8d03.png?177254169140624",
+    "sizes": []
+  },
+  {
+    "name": "Pendirli sous",
+    "description": null,
+    "price": "0.80m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/5fd/254_254_2/5fd77e3814b540eb479ee50276f9d554.png?177254169135515",
+    "sizes": []
+  },
+  {
+    "name": "Mayonez",
+    "description": null,
+    "price": "0.60m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/68a/254_254_2/68afcfc4bd672bd881f52bd873264b58.png?177254169139588",
+    "sizes": []
+  },
+  {
+    "name": "Çizkeyk San Sebastian",
+    "description": null,
+    "price": "6.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/b19/254_254_2/b1903618073ebd02742e20fa2dd6dca6.png?177254171831930",
+    "sizes": []
+  },
+  {
+    "name": "Muffin",
+    "description": null,
+    "price": "4.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/26e/254_254_2/26e68f90c1a980040c6dfedcc30a18f9.png?177254171832236",
+    "sizes": [
+      {
+        "size": "Klassik"
+      },
+      {
+        "size": "Şokolad"
+      },
+      {
+        "size": "Giləmeyvə"
+      }
+    ]
+  },
+  {
+    "name": "Donut",
+    "description": null,
+    "price": "3.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/9a3/254_254_2/9a3c5df5a1507c8a23d899a038b2e4f4.png?177254171842587",
+    "sizes": [
+      {
+        "size": "Ağ qanaj"
+      },
+      {
+        "size": "Qara qanaj"
+      },
+      {
+        "size": "Qırmızı qanaj"
+      }
+    ]
+  },
+  {
+    "name": "Berliner",
+    "description": null,
+    "price": "3.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/aec/254_254_2/aec633e2c61c3057206b62e2c96e47c9.png?177254171833703",
+    "sizes": [
+      {
+        "size": "Vanil"
+      },
+      {
+        "size": "Nutella"
+      },
+      {
+        "size": "Bişmiş süd"
+      }
+    ]
+  },
+  {
+    "name": "Dietik Tiramisu",
+    "description": null,
+    "price": "6.90m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/677/254_254_2/6771387e8560b44a799c808ab7cdd55f.png?177254171835886",
+    "sizes": []
+  },
+  {
+    "name": "Ayran",
+    "description": null,
+    "price": "1.50m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/bd5/254_254_2/bd57a3bfa1bc10e5a06c68fa1d835104.png?177254180931376",
+    "sizes": []
+  },
+  {
+    "name": "Sirab",
+    "description": null,
+    "price": "2m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/112/254_254_2/112eb8becb51f78c101cd8d97cf9310c.png?177254180936969",
+    "sizes": [
+      {
+        "size": "Sirab Qazsız 0.33 L"
+      },
+      {
+        "size": "Sirab Qazlı 0.33 L"
+      }
+    ]
+  },
+  {
+    "name": "Coca-cola",
+    "description": null,
+    "price": "3.00m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/f62/254_254_2/f621095f09ef8cfeea43f658bc184786.png?177254180938739",
+    "sizes": [
+      {
+        "size": "Coca-cola 0.33 L"
+      },
+      {
+        "size": "Coca-cola Zero 0.33 L"
+      }
+    ]
+  },
+  {
+    "name": "Fanta",
+    "description": null,
+    "price": "3.00m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/e3c/254_254_2/e3c5edd00e1d5e8b60faf4e3e228b901.png?177254180939943",
+    "sizes": []
+  },
+  {
+    "name": "Sprite",
+    "description": null,
+    "price": "3.00m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/8b9/254_254_2/8b9077cdc2e90f6ee86b7b223294e7b3.png?177254180942464",
+    "sizes": []
+  },
+  {
+    "name": "Fuse Tea",
+    "description": null,
+    "price": "3.00m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/050/254_254_2/0504b7a70716152cbcd099104be35808.png?177254180940851",
+    "sizes": []
+  },
+  {
+    "name": "Capri Sun",
+    "description": null,
+    "price": "2.50m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/631/254_254_2/63142d7533ad2982b61bcbae0e578764.png?177254180943856",
+    "sizes": []
+  },
+  {
+    "name": "Swell",
+    "description": null,
+    "price": "2.50m AZN",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/a65/254_254_2/a65140abc77d24afaff2efe0993ee3d5.png?177254180933754",
+    "sizes": [
+      {
+        "size": "Swell Alma"
+      },
+      {
+        "size": "Swell Gilas"
+      },
+      {
+        "size": "Swell Portağal"
+      }
+    ]
+  }
+]
