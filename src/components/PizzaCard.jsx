@@ -3,6 +3,11 @@ function PizzaCard({ pizza, quantity, onCardClick, onAddClick, onIncrement, onDe
     const inCart = quantity > 0
     const basePriceStr = price ? price.replace('m AZN', '').trim() : '0'
     const hasSizes = sizes && sizes.length > 0
+    // Yalniz asagidaki sertlerden birine uyan mehsullarin qiymeti deyisir (bax: PizzaModal.jsx)
+    const isPizzaSize = hasSizes && sizes.some(s => s.size.toLowerCase().includes('sm'));
+    const namesWithVariablePrice = ['Panini (Sadə)', 'Çiken Strips', 'Naggets', 'Panini'];
+    const priceChangesWithSize = isPizzaSize || namesWithVariablePrice.includes(name);
+
     const priceDisplay = basePriceStr.replace('.', ',')
 
     return (
@@ -38,7 +43,7 @@ function PizzaCard({ pizza, quantity, onCardClick, onAddClick, onIncrement, onDe
                 {/* Qiymet */}
                 <div className="flex flex-wrap items-center justify-between sm:mt-auto sm:pt-2 w-full">
                     <span className="hidden sm:block text-[14px] md:text-[15px] font-bold text-gray-900">
-                        ₼ {basePriceStr}{hasSizes ? '-dan' : ''}
+                        ₼ {basePriceStr}{priceChangesWithSize ? '-dan' : ''}
                     </span>
 
                     {inCart ? (
@@ -73,7 +78,7 @@ function PizzaCard({ pizza, quantity, onCardClick, onAddClick, onIncrement, onDe
                             }}
                             className="px-4 py-1.5 sm:px-6 sm:py-2 rounded-full text-[13px] sm:text-[14px] font-bold bg-[#fbeaea] text-[#e63926] hover:bg-[#ffe0e0] transition-colors cursor-pointer"
                         >
-                            <span className="block sm:hidden">₼ {priceDisplay}{hasSizes ? '-dan' : ''}</span>
+                            <span className="block sm:hidden">₼ {priceDisplay}{priceChangesWithSize ? '-dan' : ''}</span>
                             <span className="hidden sm:block">Seçin</span>
                         </button>
                     )}
