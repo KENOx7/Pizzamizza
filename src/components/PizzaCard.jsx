@@ -3,7 +3,6 @@ function PizzaCard({ pizza, quantity, onCardClick, onAddClick, onIncrement, onDe
     const inCart = quantity > 0
     const basePriceStr = price ? price.replace('m AZN', '').trim() : '0'
     const hasSizes = sizes && sizes.length > 0
-    // Yalniz asagidaki sertlerden birine uyan mehsullarin qiymeti deyisir (bax: PizzaModal.jsx)
     const isPizzaSize = hasSizes && sizes.some(s => s.size.toLowerCase().includes('sm'));
     const namesWithVariablePrice = ['Panini (Sadə)', 'Çiken Strips', 'Naggets', 'Panini'];
     const priceChangesWithSize = isPizzaSize || namesWithVariablePrice.includes(name);
