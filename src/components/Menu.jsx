@@ -243,18 +243,6 @@ function Menu({ cartItemCount, cartTotal, addToCart, onOpenCart, cart, updateQua
                                 )
                             })}
 
-                            {/* Sıralama button */}
-                            <button
-                                onClick={() => setSortAsc(prev => prev === null ? true : prev === true ? false : null)}
-                                className={`flex items-center gap-1.5 px-4 py-2 rounded-full text-[13px] font-semibold transition-all cursor-pointer border ml-auto
-                                    ${sortAsc !== null
-                                        ? 'bg-[#e63926] text-white border-[#e63926] shadow-md'
-                                        : 'bg-white text-gray-700 border-gray-200 hover:border-gray-300 hover:shadow-sm'
-                                    }`}
-                            >
-                                <ArrowUpDown size={15} />
-                                {sortAsc === null ? 'Sıralanma' : sortAsc ? 'Ucuzdan bahaya' : 'Bahadan ucuza'}
-                            </button>
                         </div>
                     </section>
                 )}
@@ -333,10 +321,25 @@ function Menu({ cartItemCount, cartTotal, addToCart, onOpenCart, cart, updateQua
                             ref={(el) => { sectionRefs.current[cat.label] = el }}
                             className="pb-8"
                         >
-                            <h2 className="text-xl md:text-2xl font-extrabold text-gray-900 mb-5 pt-4 flex items-center gap-2">
-                                <CatIcon size={24} className="text-[#e63926]" />
-                                {cat.label}
-                            </h2>
+                            <div className="flex items-center justify-between mb-5 pt-4">
+                                <h2 className="text-xl md:text-2xl font-extrabold text-gray-900 flex items-center gap-2">
+                                    <CatIcon size={24} className="text-[#e63926]" />
+                                    {cat.label}
+                                </h2>
+                                {cat.label === 'Pizzalar' && (
+                                    <button
+                                        onClick={() => setSortAsc(prev => prev === null ? true : prev === true ? false : null)}
+                                        className={`flex items-center gap-1.5 px-4 py-2 rounded-full text-[13px] font-semibold transition-all cursor-pointer border
+                                            ${sortAsc !== null
+                                                ? 'bg-[#e63926] text-white border-[#e63926] shadow-md'
+                                                : 'bg-white text-gray-700 border-gray-200 hover:border-gray-300 hover:shadow-sm'
+                                            }`}
+                                    >
+                                        <ArrowUpDown size={15} />
+                                        {sortAsc === null ? 'Sıralanma' : sortAsc ? 'Ucuzdan bahaya' : 'Bahadan ucuza'}
+                                    </button>
+                                )}
+                            </div>
                             {catItems.length === 0 ? (
                                 <div className="text-center py-12 text-gray-400">
                                     <p className="text-lg">Bu filterə uyğun pizza tapılmadı</p>
