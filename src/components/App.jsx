@@ -5,6 +5,7 @@ import CartModal from './CartModal'
 import AnimatedPrice from './AnimatedPrice'
 import Footer from './Footer'
 import Header from './Header'
+import FirstVisitModal from './FirstVisitModal'
 
 function App() {
     const [cart, setCart] = useState([])
@@ -105,6 +106,7 @@ function App() {
 
     return (
         <div className="min-h-screen bg-[#f9f9f9]">
+            <FirstVisitModal />
             <Header cartItemCount={cartItemCount} cartTotal={cartTotal} onOpenCart={() => setIsCartOpen(true)} />
 
             <Slider />
