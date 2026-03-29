@@ -1,53 +1,21 @@
-# 🍕 PizzaMizza (React Klon) / Web Tətbiqi
+# 🍕 PizzaMizza (React Klon) 
 
-Bu layihə **React** və müasir web texnologiyalarından istifadə edərək hazırlanmış, interaktiv və gözəl görünüşlü pizza/restoran platformasıdır. İstifadəçilərə sürətli naviqasiya, gözəl vizual dizayn və rahat sifariş təcrübəsi təqdim etmək üçün ən son texnologiyalardan yararlanılmışdır.
+<p align="left">
+  <img src="https://img.shields.io/badge/VERSION-1.0.0-00FF00?style=for-the-badge" alt="Version" />
+  <img src="https://img.shields.io/badge/REACT-19-0284c7?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/TAILWIND-V4-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/VITE-DEV-646cff?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/AXIOS-HTTP-5a29e4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
+  <img src="https://img.shields.io/badge/REACT_ROUTER-DOM-ca4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router" />
+</p>
 
----
-
-## 🚀 Nələrdən İstifade Olunub (Texnologiya Steki)
-
-Layihənin inkişaf prosesində aşağıdakı müasir alətlər və kitabxanalardan istifadə edilib:
-
-*   **⚛️ React (v19)** — Komponent əsaslı və yüksək performanslı istifadəçi interfeysinin (UI) qurulması üçün.
-*   **⚡ Vite** — Çox sürətli inkişaf (development) mühiti və optimallaşdırılmış build prosesi təmin edən alət.
-*   **🎨 Tailwind CSS (v4)** — Hazır faydalı siniflərlə (utility classes) qısa müddətdə responsiv və gözəl dizaynlar (styling) yaratmaq üçün çərçivə (framework).
-*   **🚏 React Router DOM (v7)** — Tək Səhifəli Tətbiq (SPA) daxilində səhifələrarası sürətli yönləndirmə və marşrutlaşdırma (routing).
-*   **🌐 Axios** — Arxa end (backend) ilə əlaqə qurmaq və asinxron API sorğularını göndərmək üçün HTTP müştərisi.
-*   **✨ Lucide React** — İnterfeysi zənginləşdirmək üçün müasir, təmiz və yüngül vektor (SVG) ikonlar.
+Bu layihə müasir web texnologiyalarından istifadə edərək hazırlanmış, interaktiv və gözəl görünüşlü pizza/restoran platformasıdır. İstifadəçilərə sürətli naviqasiya, gözəl vizual dizayn və rahat sifariş təcrübəsi təqdim etmək üçün ən son texnologiyalardan yararlanılmışdır.
 
 ---
 
 ## ✨ Əsas Özəlliklər
 
-*   **📱 Tam Responsiv Dizayn:** Həm mobil, həm planşet, həm də masaüstü cihazlar üçün qüsursuz işləyən struktur (Tailwind zəmanəti ilə).
+*   **📱 Tam Responsiv Dizayn:** Həm mobil, həm planşet, həm də masaüstü cihazlar üçün qüsursuz işləyən struktur.
 *   **🍕 Kateqoriya və Axtarış:** Məhsulların asanlıqla tapılması, sürətli axtarışlar və filtrasiya sistemi.
-*   **💫 Müasir UI/UX:** Cəlbedici məhsul kartları (Cards), modallar (Modals), zərif keçidlər və qaranlıq/aydın rejim (Dark/Light mode) konseptlərinə uyğunlaşdırılmış vizuallar.
-
----
-
-## 🛠️ Yerli Mühitdə İşə Salma (Quraşdırma)
-
-Layihəni öz kompüterinizdə yoxlamaq üçün aşağıdakı addımları izləyin:
-
-1. **Layihə qovluğuna daxil olun:**
-   ```bash
-   cd layihe-qovlugu
-   ```
-
-2. **Paketləri (Asılılıqları) quraşdırın:**
-   ```bash
-   npm install
-   ```
-
-3. **Layihəni işə salın (Development):**
-   ```bash
-   npm run dev
-   ```
-
-Tətbiq standart olaraq adətən `http://localhost:5173/` ünvanında işə düşəcəkdir.
-
----
-
-<p align="center">
-  <i>Bu layihə frontend web inkişaf bacarıqlarını nümayiş etdirmək və təkmilləşdirmək məqsədilə 💙 ilə hazırlanmışdır.</i>
-</p>
+*   **💫 Müasir UI/UX:** Cəlbedici məhsul kartları (Cards), modallar (Modals), zərif keçidlər və müasir interfeys elementləri.
+*   **🌐 API İnteqrasiyası:** Məlumatların dinamik olaraq arxa enddən (backend-dən) gətirilməsi və göstərilməsi.
